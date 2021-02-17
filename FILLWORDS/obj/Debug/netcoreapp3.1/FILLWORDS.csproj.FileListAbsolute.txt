@@ -1,0 +1,13 @@
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\bin\Debug\netcoreapp3.1\FILLWORDS.exe
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\bin\Debug\netcoreapp3.1\FILLWORDS.deps.json
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\bin\Debug\netcoreapp3.1\FILLWORDS.runtimeconfig.json
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\bin\Debug\netcoreapp3.1\FILLWORDS.runtimeconfig.dev.json
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\bin\Debug\netcoreapp3.1\FILLWORDS.dll
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\bin\Debug\netcoreapp3.1\FILLWORDS.pdb
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\obj\Debug\netcoreapp3.1\FILLWORDS.csprojAssemblyReference.cache
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\obj\Debug\netcoreapp3.1\FILLWORDS.AssemblyInfoInputs.cache
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\obj\Debug\netcoreapp3.1\FILLWORDS.AssemblyInfo.cs
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\obj\Debug\netcoreapp3.1\FILLWORDS.csproj.CoreCompileInputs.cache
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\obj\Debug\netcoreapp3.1\FILLWORDS.dll
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\obj\Debug\netcoreapp3.1\FILLWORDS.pdb
+C:\Users\aafil\Desktop\FILLWORDS\FILLWORDS\obj\Debug\netcoreapp3.1\FILLWORDS.genruntimeconfig.cache
